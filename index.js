@@ -5,3 +5,4 @@ let mul=(x,y)=>
 }
 mul(3,8);
 console.log("Hii mayuri");
+console.log("Changed by tanuja");
